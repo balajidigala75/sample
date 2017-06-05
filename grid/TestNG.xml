@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<!-- <suite name="Ranfordbank" parallel="tests" thread-count="2"> -->
+<suite name="AmazonOnline" thread-count="2" parallel="tests">	
+	<!-- <parameter name ="browser" value="chrome"/> -->
+ 	<test name = "AmazonTest">
+ 	<parameter name ="browser" value="firefox"/>
+ 			<classes>
+			<class name = "onlineGrid.grid.Amazon">
+				
+			</class>
+		</classes>
+		</test>
+	
+ 	<test name = "AmazonTest1">
+ 		<parameter name ="browser" value="chrome"/>
+			<classes>
+			<class name = "onlineGrid.grid.Amazon">
+				
+			</class>
+		</classes>
+		</test>
+</suite>

@@ -1,0 +1,1019 @@
+DEBUG   2017-05-26 11:52:41,273 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-05-26 11:52:41,273 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-05-26 11:52:44,227 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-05-26 11:52:45,018 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-05-26 11:52:45,129 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-05-26 11:52:45,443 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-05-26 11:52:46,269 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-05-26 11:52:46,437 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-05-26 11:52:49,660 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-05-26 11:52:49,813 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-05-26 11:52:49,923 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+INFO    2017-05-26 11:52:50,891 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-05-26 11:52:50,945 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-05-26 11:52:55,709 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-05-26 11:52:55,937 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-05-26 11:52:56,143 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-05-26 11:53:00,913 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-05-26 11:53:01,179 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 11:53:03,946 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 11:53:11,239 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 11:53:11,278 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-05-26 11:53:11,306 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-05-26 11:53:14,814 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 11:53:14,864 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 11:53:15,226 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-05-26 11:57:38,300 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-05-26 11:57:38,300 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-05-26 11:57:41,418 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-05-26 11:57:42,659 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-05-26 11:57:43,132 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-05-26 11:57:43,191 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-05-26 11:57:44,784 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-05-26 11:57:44,861 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+INFO    2017-05-26 11:57:44,936 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-05-26 11:57:45,101 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-05-26 11:57:48,051 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-05-26 11:57:48,436 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-05-26 11:57:48,621 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-05-26 11:57:49,738 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-05-26 11:57:50,023 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-05-26 11:57:50,277 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-05-26 11:57:59,624 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-05-26 11:57:59,838 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 11:58:01,194 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 11:58:07,452 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-05-26 11:58:11,488 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 11:58:11,577 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 16:58:40,644 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-05-26 16:58:40,644 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-05-26 16:58:44,018 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-05-26 16:58:45,332 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-05-26 16:58:45,490 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-05-26 16:58:45,569 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-05-26 16:58:46,500 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-05-26 16:58:46,695 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-05-26 16:58:49,919 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-05-26 16:58:50,076 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+INFO    2017-05-26 16:58:50,306 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-05-26 16:58:50,370 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-05-26 16:58:50,478 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-05-26 16:58:54,823 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-05-26 16:58:55,060 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-05-26 16:58:55,283 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-05-26 16:59:01,821 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-05-26 16:59:02,066 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 16:59:02,940 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 16:59:10,562 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-05-26 16:59:14,707 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 16:59:14,801 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 17:04:18,726 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-05-26 17:04:18,726 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-05-26 17:04:23,371 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-05-26 17:04:23,462 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-05-26 17:04:24,940 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-05-26 17:04:25,054 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-05-26 17:04:28,240 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-05-26 17:04:28,626 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-05-26 17:04:28,775 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-05-26 17:04:39,650 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-05-26 17:04:57,321 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 17:05:59,821 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 17:06:02,645 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 17:06:02,744 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-05-26 17:07:40,004 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-05-26 17:07:40,010 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-05-26 17:07:42,819 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-05-26 17:07:44,098 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-05-26 17:07:44,854 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-05-26 17:07:44,929 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-05-26 17:07:45,880 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-05-26 17:07:46,062 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+INFO    2017-05-26 17:07:46,305 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-05-26 17:07:46,516 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-05-26 17:07:49,254 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-05-26 17:07:49,404 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-05-26 17:07:49,753 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-05-26 17:07:51,064 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-05-26 17:07:51,301 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-05-26 17:07:51,511 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-05-26 17:08:00,740 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-05-26 17:08:06,409 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-05-26 17:10:09,293 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-05-26 17:10:09,299 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-05-26 17:10:12,108 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-05-26 17:10:13,405 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-05-26 17:10:14,132 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-05-26 17:10:14,208 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-05-26 17:10:15,367 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-05-26 17:10:15,513 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+INFO    2017-05-26 17:10:15,655 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-05-26 17:10:15,826 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-05-26 17:10:18,694 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-05-26 17:10:19,282 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-05-26 17:10:19,414 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-05-26 17:10:20,384 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-05-26 17:10:20,599 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-05-26 17:10:20,803 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-05-26 17:10:30,343 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-05-26 17:10:35,932 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-05-26 17:10:37,806 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 17:11:10,698 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 17:11:27,384 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 17:13:23,706 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 17:13:31,408 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-05-26 17:14:13,450 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 17:14:20,708 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 17:14:20,892 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-05-26 17:29:02,954 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-05-26 17:29:02,957 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-05-26 17:29:05,830 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-05-26 17:29:07,115 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-05-26 17:29:08,078 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-05-26 17:29:08,161 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-05-26 17:29:08,601 [TestNG] balajiLogger  - entering clickSignIn test
+INFO    2017-05-26 17:29:09,546 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-05-26 17:29:09,646 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-05-26 17:29:12,803 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-05-26 17:29:12,942 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-05-26 17:29:13,045 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-05-26 17:29:15,111 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-05-26 17:29:19,491 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-05-26 17:29:19,746 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-05-26 17:29:19,942 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-05-26 17:29:24,136 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-05-26 17:29:24,434 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 17:29:27,579 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 17:29:34,760 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 17:29:34,827 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-05-26 17:29:35,226 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-05-26 17:29:41,701 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 17:29:41,762 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 17:29:42,127 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-05-26 17:40:40,382 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-05-26 17:40:40,382 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-05-26 17:40:43,178 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-05-26 17:40:44,454 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-05-26 17:40:45,110 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-05-26 17:40:45,198 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-05-26 17:40:45,863 [TestNG] balajiLogger  - entering clickSignIn test
+INFO    2017-05-26 17:40:46,810 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-05-26 17:40:46,874 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-05-26 17:40:48,900 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-05-26 17:40:50,084 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-05-26 17:40:50,255 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-05-26 17:40:50,391 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-05-26 17:40:53,406 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-05-26 17:40:53,617 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-05-26 17:40:53,864 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-05-26 17:41:01,514 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-05-26 17:41:01,754 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 17:41:02,834 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 17:41:09,471 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-05-26 17:41:13,419 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-26 17:41:13,516 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-05-31 23:43:23,396 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-05-31 23:43:23,634 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-05-31 23:45:31,247 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-05-31 23:56:04,364 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-05-31 23:56:46,214 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-05-31 23:57:42,940 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-05-31 23:58:45,490 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-05-31 23:59:52,649 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 00:01:02,336 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 00:03:16,843 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 00:03:16,921 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 00:06:19,667 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 00:10:36,686 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 00:10:58,797 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 00:11:01,258 [main] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 00:11:02,486 [main] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 00:11:24,898 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 00:17:26,133 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 00:17:48,210 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 00:17:50,390 [main] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 00:17:51,598 [main] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 00:18:00,503 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 00:18:00,664 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 00:18:06,472 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 00:18:06,697 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 00:18:06,881 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 00:18:35,363 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 00:18:42,582 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 00:18:42,702 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 00:30:00,031 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 00:30:37,067 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 00:30:39,352 [main] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 00:31:32,002 [main] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 00:31:57,448 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 00:31:57,531 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 00:32:38,358 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 00:32:38,551 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 00:32:38,726 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 00:33:10,564 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 00:34:01,525 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 00:34:05,630 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 00:37:12,248 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 00:37:34,350 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 00:37:36,480 [main] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 00:37:37,685 [main] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 00:37:42,657 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 00:37:42,757 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 00:37:47,540 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 00:37:47,792 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 00:37:47,977 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 00:38:09,399 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 00:41:51,732 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 00:42:13,860 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 00:42:16,015 [main] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 00:42:17,207 [main] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 00:42:23,097 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 00:42:23,293 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 00:42:28,734 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 00:42:28,978 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 00:42:29,162 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 00:42:56,614 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 00:50:54,724 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 00:51:16,771 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 00:51:18,943 [main] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 00:51:20,134 [main] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 00:51:24,176 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 00:51:24,313 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 00:51:29,137 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 00:51:29,362 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 00:51:29,571 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 00:51:47,269 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 00:54:04,012 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 00:54:26,205 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 00:55:39,007 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 00:56:01,029 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 00:56:03,126 [main] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 00:56:04,316 [main] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 00:56:06,163 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 00:56:10,498 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 00:56:15,474 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 00:56:15,683 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 00:56:15,880 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 00:56:51,203 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 11:58:49,726 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 11:58:49,826 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 12:01:49,758 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 12:10:37,453 [main] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 12:10:37,853 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 12:10:40,832 [main] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 12:10:42,087 [main] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 12:10:45,422 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 12:10:45,534 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 12:10:50,330 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 12:10:50,539 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 12:10:50,743 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 12:11:08,989 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 12:22:37,071 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 12:22:43,042 [main] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 12:22:43,211 [main] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 12:22:44,293 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 12:22:44,672 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 12:22:48,045 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 12:22:48,258 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 12:22:48,395 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 12:22:58,778 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 12:23:00,064 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 12:23:02,091 [main] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 12:23:03,279 [main] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 12:23:05,588 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 12:23:05,809 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 12:23:15,695 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 12:23:15,898 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 12:23:16,090 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 12:23:44,905 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 12:54:27,539 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 12:54:32,406 [main] balajiLogger  - Firefox browser selected...
+DEBUG   2017-06-01 12:54:32,609 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 12:54:34,938 [main] balajiLogger  - Chrome browser selected...
+DEBUG   2017-06-01 13:26:52,369 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 13:26:57,261 [main] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 13:26:57,374 [main] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 13:26:59,669 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 13:26:59,736 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 13:27:02,922 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 13:27:03,055 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 13:27:03,155 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 13:27:13,563 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 13:27:14,526 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 13:27:16,610 [main] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 13:27:17,790 [main] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 13:27:19,892 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 13:27:20,050 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 13:27:24,760 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 13:27:25,022 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 13:27:25,212 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 13:27:56,911 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 13:29:32,967 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 13:29:37,819 [main] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 13:29:37,964 [main] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 13:29:39,267 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 13:29:39,624 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 13:29:42,946 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 13:29:43,081 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 13:29:43,157 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 13:29:53,529 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 13:29:54,951 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 13:29:57,120 [main] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 13:29:58,339 [main] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 13:30:00,684 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 13:30:00,857 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 13:30:05,457 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 13:30:05,850 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 13:30:06,291 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 13:30:22,904 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 13:50:39,007 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 13:50:43,906 [main] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 13:50:44,073 [main] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 13:50:48,251 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 13:50:48,480 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 13:50:51,774 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 13:50:51,931 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 13:50:52,010 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 13:51:02,372 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 13:51:03,967 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 13:51:06,191 [main] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 13:51:07,533 [main] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 13:51:18,515 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 13:51:18,574 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 13:51:23,166 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 13:51:23,397 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 13:51:23,586 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 13:51:38,579 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 15:09:41,722 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 15:09:46,547 [main] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 15:09:46,649 [main] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 15:09:47,827 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 15:09:48,067 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 15:09:51,252 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 15:09:51,378 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 15:09:51,483 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 15:10:01,863 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 15:10:03,533 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 15:10:05,619 [main] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 15:10:06,785 [main] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 15:10:08,894 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 15:10:09,063 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 15:10:13,522 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 15:10:13,725 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 15:10:13,898 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 15:11:06,154 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 15:15:19,633 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 15:15:24,307 [main] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 15:15:24,422 [main] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 15:15:27,938 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 15:15:27,978 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 15:15:31,117 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 15:15:31,248 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 15:15:31,381 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 15:15:41,766 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 15:15:43,154 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 15:15:45,172 [main] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 15:15:46,384 [main] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 15:15:49,998 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 15:15:53,940 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 15:15:58,576 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 15:15:58,833 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 15:15:59,025 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 15:16:36,242 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 15:17:50,279 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 15:17:55,181 [main] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 15:17:55,293 [main] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 15:17:58,475 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 15:17:58,515 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 15:18:01,709 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 15:18:01,916 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 15:18:02,012 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 15:18:12,355 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 15:18:12,554 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:18:14,394 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:18:17,240 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:18:17,276 [main] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 15:18:37,218 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 15:18:39,491 [main] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 15:18:40,684 [main] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 15:18:42,343 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 15:18:47,675 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 15:18:52,298 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 15:18:52,482 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 15:18:52,655 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 15:19:36,834 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 15:19:43,123 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:20:13,695 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:21:02,246 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:24:39,033 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 15:24:43,908 [main] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 15:24:44,003 [main] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 15:24:45,377 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 15:24:45,468 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 15:24:48,893 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 15:24:49,046 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 15:24:49,170 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 15:24:59,559 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 15:24:59,806 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:24:59,848 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:24:59,892 [main] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 15:25:14,357 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 15:25:16,426 [main] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 15:25:17,590 [main] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 15:25:19,139 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 15:25:24,892 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 15:25:29,275 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 15:25:29,490 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 15:25:29,693 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 15:25:47,073 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 15:25:52,054 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:25:54,441 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:26:02,372 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:26:02,670 [main] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 15:31:28,376 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 15:31:33,171 [main] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 15:31:33,305 [main] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 15:31:35,859 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 15:31:36,011 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 15:31:39,223 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 15:31:39,358 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 15:31:39,473 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 15:31:49,848 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 15:31:50,053 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:31:53,014 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:32:00,723 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:32:00,761 [main] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 15:32:15,369 [main] balajiLogger  - Selecting brower....
+INFO    2017-06-01 15:32:17,436 [main] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 15:32:18,614 [main] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 15:32:22,335 [main] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 15:32:22,391 [main] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 15:32:27,333 [main] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 15:32:27,549 [main] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 15:32:27,739 [main] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 15:32:46,722 [main] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 15:32:51,250 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:32:53,438 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:33:00,894 [main] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:33:01,088 [main] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 15:43:40,251 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 15:43:40,251 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 15:43:43,602 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 15:43:44,821 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 15:43:46,491 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 15:44:15,751 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 15:44:20,398 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 15:44:20,608 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 15:44:20,842 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 15:44:35,413 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 15:44:39,511 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:44:41,089 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:44:48,280 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:44:48,467 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 15:50:50,920 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 15:55:24,001 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 15:55:25,302 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 15:55:27,590 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 15:55:30,555 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 15:55:35,135 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 15:55:35,354 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 15:55:35,547 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 15:55:50,633 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 15:55:54,551 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:55:56,090 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:56:03,294 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 15:56:03,487 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 15:56:41,831 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 16:00:40,609 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 16:00:40,609 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 16:00:43,552 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 16:00:44,795 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 16:00:45,489 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 16:00:45,568 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 16:00:47,001 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 16:00:47,195 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+INFO    2017-06-01 16:00:47,316 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 16:00:47,441 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 16:00:50,690 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 16:00:51,074 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 16:00:51,270 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 16:00:51,800 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 16:00:52,047 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 16:00:52,279 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 16:01:02,707 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 16:01:02,935 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:01:04,461 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:01:05,956 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:01:06,035 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 16:01:06,666 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 16:01:10,250 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:01:10,294 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:01:11,336 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 16:04:23,331 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 16:04:23,331 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 16:04:27,974 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 16:04:28,078 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 16:04:30,169 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 16:04:30,269 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 16:04:33,477 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 16:04:33,893 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 16:04:34,094 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 16:04:45,033 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 16:04:45,402 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:04:48,843 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:04:56,408 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:04:56,527 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 16:07:22,338 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 16:07:22,338 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 16:07:25,287 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 16:07:26,603 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 16:07:27,158 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 16:07:27,220 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 16:07:31,329 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 16:07:31,395 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+INFO    2017-06-01 16:07:32,576 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 16:07:32,663 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 16:07:35,777 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 16:07:35,854 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 16:07:35,993 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 16:07:36,032 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 16:07:36,180 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 16:07:36,400 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 16:07:47,316 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 16:07:47,539 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:07:50,264 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:07:57,435 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:07:57,495 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 16:08:08,432 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 16:18:12,771 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 16:18:12,771 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 16:18:17,632 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 16:18:17,821 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 16:18:19,288 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 16:18:19,365 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 16:18:22,632 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 16:18:23,192 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 16:18:23,381 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 16:18:34,243 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 16:18:34,457 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:18:37,704 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:18:44,789 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:18:44,857 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 16:19:27,006 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 16:19:27,006 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 16:19:29,969 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 16:19:31,202 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 16:19:31,855 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 16:19:31,994 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 16:19:32,845 [TestNG] balajiLogger  - entering clickSignIn test
+INFO    2017-06-01 16:19:33,776 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 16:19:33,878 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 16:19:37,030 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 16:19:37,152 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 16:19:37,272 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 16:19:46,297 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 16:19:48,328 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 16:19:48,668 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:19:50,755 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 16:19:51,064 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 16:19:51,325 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 16:19:51,759 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:19:59,172 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:19:59,235 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 16:20:07,084 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 16:20:11,538 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:20:12,667 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:20:14,509 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:23:29,088 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 16:23:29,088 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 16:23:32,098 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 16:23:33,331 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 16:23:34,865 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 16:23:48,153 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 16:23:52,566 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 16:23:52,798 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 16:23:53,016 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 16:24:08,333 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 16:24:12,234 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:24:13,557 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:24:19,765 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:24:19,937 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 16:28:41,308 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 16:28:41,308 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 16:28:46,201 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 16:28:46,300 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 16:28:48,206 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 16:28:48,322 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 16:28:51,542 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 16:28:51,947 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 16:28:52,178 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 16:29:03,039 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 16:29:03,309 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:29:06,456 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:29:14,172 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:29:14,271 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 16:31:33,404 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 16:31:33,404 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 16:31:36,367 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 16:31:37,630 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 16:31:40,746 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 16:31:43,607 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 16:31:48,087 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 16:31:48,348 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 16:31:48,594 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 16:32:03,243 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 16:32:07,172 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:32:09,332 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:32:16,696 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:32:16,890 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 16:34:19,560 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 16:34:19,560 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 16:34:22,525 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 16:34:23,759 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 16:34:24,564 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 16:34:24,638 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 16:34:26,130 [TestNG] balajiLogger  - entering clickSignIn test
+INFO    2017-06-01 16:34:26,160 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 16:34:26,258 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 16:34:29,419 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 16:34:29,577 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 16:34:29,955 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 16:34:30,806 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 16:34:35,297 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 16:34:35,493 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 16:34:35,700 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 16:34:40,906 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 16:34:41,400 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:34:43,979 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:34:51,163 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:34:51,232 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 16:34:51,373 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 16:34:54,916 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:34:54,960 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:34:55,315 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 16:37:08,646 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 16:37:08,646 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 16:37:11,722 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 16:37:12,952 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 16:37:13,621 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 16:37:13,701 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 16:37:15,321 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 16:37:15,427 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+INFO    2017-06-01 16:37:16,440 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 16:37:16,635 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 16:37:18,582 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 16:37:18,958 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 16:37:19,063 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 16:37:21,276 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 16:37:21,598 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 16:37:21,812 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 16:37:29,936 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 16:37:30,679 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:37:31,480 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:37:36,381 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 16:37:39,004 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:37:39,065 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 16:37:41,723 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:37:41,770 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:37:47,418 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 16:52:14,519 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 16:52:14,519 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 16:52:17,529 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 16:52:18,800 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 16:52:19,382 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 16:52:19,440 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 16:52:20,934 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 16:52:21,030 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+INFO    2017-06-01 16:52:21,204 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 16:52:21,396 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 16:52:24,182 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 16:52:24,580 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 16:52:24,794 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 16:52:26,034 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 16:52:26,293 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 16:52:26,458 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 16:52:35,652 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 16:52:35,925 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:52:40,223 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:52:41,747 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 16:52:45,844 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:52:47,395 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:52:47,639 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:52:47,703 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 16:57:32,670 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 16:57:32,670 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 16:57:37,545 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 16:57:37,658 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 16:57:39,020 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 16:57:39,136 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 16:57:42,313 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 16:57:42,757 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 16:57:42,983 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 16:57:54,007 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 16:57:54,359 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:57:57,671 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:58:05,283 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:58:05,351 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 16:58:42,591 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 16:58:42,591 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 16:58:47,440 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 16:58:47,525 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 16:58:49,406 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 16:58:49,495 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 16:58:52,736 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 16:58:53,139 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 16:58:53,290 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 16:59:04,154 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 16:59:04,500 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:59:07,881 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:59:15,429 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 16:59:15,714 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 16:59:46,048 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 16:59:46,048 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 16:59:49,389 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 16:59:50,590 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 16:59:52,911 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 16:59:53,177 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 16:59:58,067 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 16:59:58,279 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 16:59:58,461 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 17:00:14,069 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 17:00:18,090 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 17:00:20,323 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 17:00:28,109 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 17:00:28,312 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 17:04:01,011 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 17:04:01,011 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 17:04:05,874 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 17:04:05,952 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 17:04:07,683 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 17:04:07,783 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 17:04:10,994 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 17:04:11,156 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 17:04:11,495 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 17:04:22,505 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 17:04:22,767 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 17:04:26,468 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 17:04:33,927 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 17:04:34,029 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 17:10:26,996 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 17:10:26,996 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 17:10:32,106 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 17:10:32,168 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 17:10:33,802 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 17:10:33,867 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 17:10:37,097 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 17:10:37,299 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 17:10:37,744 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 17:10:48,628 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 17:10:48,964 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 17:10:52,037 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 17:10:59,699 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 17:10:59,830 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 17:33:06,012 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 17:33:06,012 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 17:33:10,920 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 17:33:11,036 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 17:33:12,799 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 17:33:12,869 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 17:33:16,073 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 17:33:16,544 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 17:33:16,777 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 17:33:27,959 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 17:33:29,380 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 17:33:33,591 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 17:33:42,067 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 17:33:42,183 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-01 22:46:34,292 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 22:46:34,292 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 22:51:23,286 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 22:51:23,286 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 22:52:55,727 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 22:57:15,690 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 23:00:01,532 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 23:00:07,308 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 23:01:07,409 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 23:03:19,380 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 23:09:56,403 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 23:10:01,762 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 23:17:18,793 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 23:17:48,974 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 23:25:47,779 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 23:25:49,798 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 23:25:55,976 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 23:26:32,373 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 23:27:20,972 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 23:27:26,950 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 23:27:32,516 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 23:27:35,862 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+INFO    2017-06-01 23:27:43,503 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 23:27:44,573 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 23:27:51,281 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 23:27:51,500 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 23:27:51,683 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 23:27:55,642 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 23:27:56,043 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 23:27:56,202 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 23:28:26,622 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 23:28:26,622 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 23:28:30,333 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 23:28:31,641 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 23:28:31,868 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 23:28:32,159 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 23:28:34,568 [TestNG] balajiLogger  - entering clickSignIn test
+INFO    2017-06-01 23:28:38,885 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 23:28:39,173 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 23:28:40,979 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 23:28:42,640 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 23:28:42,869 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 23:28:42,980 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 23:28:45,832 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 23:28:46,180 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 23:28:46,705 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 23:28:53,502 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 23:28:54,337 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 23:29:04,400 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 23:29:08,991 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 23:31:33,798 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 23:31:33,798 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 23:31:37,048 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 23:31:38,334 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 23:31:38,605 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 23:31:38,810 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 23:31:41,405 [TestNG] balajiLogger  - entering clickSignIn test
+INFO    2017-06-01 23:31:43,816 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 23:31:43,931 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 23:31:47,114 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 23:31:47,322 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 23:31:47,416 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 23:31:57,837 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 23:31:58,108 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 23:32:59,091 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 23:33:04,125 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 23:33:04,325 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 23:33:04,517 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 23:33:22,191 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 23:33:26,984 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 23:36:37,232 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 23:36:37,232 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 23:36:40,558 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 23:36:41,876 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 23:36:42,068 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 23:36:42,263 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 23:36:44,396 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 23:36:44,780 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+INFO    2017-06-01 23:36:46,894 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 23:36:47,045 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 23:36:48,173 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 23:36:48,354 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 23:36:48,648 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 23:36:52,427 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 23:36:52,831 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 23:36:53,179 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 23:36:59,141 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 23:36:59,442 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 23:37:11,779 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 23:37:16,374 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 23:39:15,776 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 23:39:15,776 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 23:39:19,026 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 23:39:20,307 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 23:39:20,526 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 23:39:20,712 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 23:39:22,648 [TestNG] balajiLogger  - entering clickSignIn test
+INFO    2017-06-01 23:39:22,745 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 23:39:23,155 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 23:39:29,199 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 23:39:30,756 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 23:39:31,484 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 23:39:31,657 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 23:39:32,392 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 23:39:32,614 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 23:39:32,832 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 23:39:42,433 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 23:39:42,928 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 23:39:51,218 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 23:39:56,290 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 23:41:32,914 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 23:41:32,914 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 23:41:36,289 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 23:41:37,603 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 23:41:37,736 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 23:41:37,935 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 23:41:42,760 [TestNG] balajiLogger  - entering clickSignIn test
+INFO    2017-06-01 23:41:42,977 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 23:41:43,014 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 23:41:46,293 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 23:41:46,417 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 23:41:46,602 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 23:41:46,722 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 23:41:51,934 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 23:41:52,188 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 23:41:52,375 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 23:41:57,214 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 23:42:09,062 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 23:42:57,004 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 23:43:40,961 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 23:45:11,255 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 23:45:11,255 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 23:45:14,744 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 23:45:16,120 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 23:45:16,165 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 23:45:16,352 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 23:45:18,611 [TestNG] balajiLogger  - entering clickSignIn test
+INFO    2017-06-01 23:45:20,982 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 23:45:21,033 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 23:45:23,403 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 23:45:24,347 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 23:45:24,548 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 23:45:24,803 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 23:45:28,375 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 23:45:28,883 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 23:45:29,248 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 23:45:35,213 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 23:45:35,494 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 23:45:46,834 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 23:45:50,992 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 23:52:18,556 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-01 23:52:18,556 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-01 23:52:22,033 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-01 23:52:23,288 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-01 23:52:23,533 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-01 23:52:23,711 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-01 23:52:27,604 [TestNG] balajiLogger  - entering clickSignIn test
+INFO    2017-06-01 23:52:27,919 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-01 23:52:27,958 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 23:52:30,850 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-01 23:52:31,322 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 23:52:31,648 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 23:52:31,828 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 23:52:35,749 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-01 23:52:36,184 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-01 23:52:36,513 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-01 23:52:42,257 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 23:52:42,603 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 23:52:44,972 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 23:52:54,612 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-01 23:52:59,480 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 23:53:02,230 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 23:53:08,001 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-01 23:53:08,245 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-02 00:00:25,740 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-02 00:00:25,740 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-02 00:00:28,757 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-02 00:00:30,058 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-02 00:00:30,205 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-02 00:00:30,418 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-02 00:00:32,411 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-02 00:00:32,801 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+INFO    2017-06-02 00:00:35,809 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-02 00:00:37,345 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-02 00:00:38,020 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-02 00:00:38,305 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-02 00:00:41,276 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-02 00:00:48,638 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-02 00:00:48,887 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-02 00:00:50,507 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-02 00:00:50,712 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-02 00:00:50,912 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-02 00:00:54,643 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-02 00:01:03,503 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-02 00:01:03,551 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-02 00:01:15,738 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-02 00:01:20,340 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-02 00:01:25,102 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-02 00:01:33,526 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-02 00:01:33,723 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-02 11:29:43,149 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-02 11:29:43,149 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-02 11:29:46,310 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-02 11:29:47,633 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-02 11:29:48,429 [TestNG] balajiLogger  - Firefox browser selected...
+INFO    2017-06-02 11:29:48,510 [TestNG] balajiLogger  -  entering gotosite test  firefox
+INFO    2017-06-02 11:29:49,019 [TestNG] balajiLogger  - entering clickSignIn test
+INFO    2017-06-02 11:29:50,330 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-02 11:29:50,462 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-02 11:29:53,095 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
+DEBUG   2017-06-02 11:29:53,674 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-02 11:29:54,090 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-02 11:29:54,286 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-02 11:29:57,587 [TestNG] balajiLogger  - element  By.id: ap_email  found 
+DEBUG   2017-06-02 11:29:57,818 [TestNG] balajiLogger  - element  By.id: ap_password  found 
+DEBUG   2017-06-02 11:29:58,007 [TestNG] balajiLogger  - element  By.id: signInSubmit  found 
+DEBUG   2017-06-02 11:30:05,331 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-02 11:30:05,709 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-02 11:30:09,321 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-02 11:30:14,301 [TestNG] balajiLogger  - element  By.id: nav-cart  found 
+DEBUG   2017-06-02 11:30:17,484 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-02 11:30:17,586 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-02 11:30:17,943 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-02 11:30:17,991 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-cart-count']  found 
+DEBUG   2017-06-02 11:30:18,162 [TestNG] balajiLogger  - element  By.linkText: Today's Deals  found 
+DEBUG   2017-06-05 10:50:49,977 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-05 10:50:49,977 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-05 11:45:23,960 [TestNG] balajiLogger  - Selecting brower....
+DEBUG   2017-06-05 11:45:23,960 [TestNG] balajiLogger  - Selecting brower....
+INFO    2017-06-05 11:45:26,784 [TestNG] balajiLogger  - Chrome browser selected...
+INFO    2017-06-05 11:45:28,031 [TestNG] balajiLogger  -  entering gotosite test  chrome
+INFO    2017-06-05 11:45:33,851 [TestNG] balajiLogger  - entering clickSignIn test
+DEBUG   2017-06-05 11:45:34,038 [TestNG] balajiLogger  - element  By.xpath: //*[@id='nav-link-yourAccount']  found 
