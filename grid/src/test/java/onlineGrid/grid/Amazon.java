@@ -242,7 +242,7 @@ public class Amazon extends elementUtilities
 		//test = extent.startTest( getMethodName() + " " + getBrowserName());
 		ExtentTestManager.getExtentTest().log(Status.INFO, "Logging in with User id and Password from Login Page");
 		LoginPage loginpg = new LoginPage(driver);
-		loginpg.login("9704878146", "balu189");
+		loginpg.login("", "");
 	//	extent.endTest(test);
 	}
 	
